@@ -14,5 +14,7 @@ bb/gradlew
 bb/gradlew.bat
 bb/.idea/*
 bb/gradle/wrapper/*
+bb/debug/*
+bb/release/*
 BBMobile/ios/build/*
 local.properties
